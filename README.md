@@ -7,4 +7,6 @@ With this application it should be possible to add, delete, update and view both
 The challenges i faced was mostly linking my code VS and the MongooseDB database considering it was a lot more complicated, i used several methods trying to link it such as 
 trying to do it though the website when the installation failed due to poor connection messages
 
-# Walkthrough
+#  Code Showcase
+https://drive.google.com/file/d/1XGlTcoI8rOBJfRyKrYaMb21VGtNMze2o/view?usp=drive_link
+
